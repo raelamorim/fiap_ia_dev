@@ -1,0 +1,4 @@
+meu_investimento.egg-info/PKG-INFO
+meu_investimento.egg-info/SOURCES.txt
+meu_investimento.egg-info/dependency_links.txt
+meu_investimento.egg-info/top_level.txt
